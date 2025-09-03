@@ -45,10 +45,6 @@ It applies **predictive modeling, feature engineering, and model tuning** to hel
 - **Libraries:** Pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, openpyxl  
 - **Environment:** Jupyter Notebook  
 
----
-
-## 🖼️ Screenshots
-(Add ROC curve, confusion matrix, and churn risk score sample Excel output here)
 
 ---
 
